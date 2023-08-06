@@ -1,0 +1,99 @@
+.hr-line{
+    color: rgb(255, 255, 255);
+    background-color: black;
+    width: 95%;
+    height: 95%;
+}
+.font-size-p{
+    font-size: 20px;
+}
+.burger1{
+    height: 170px;
+}
+.burger2{
+    height: 170px;
+}
+.burger3{
+    height: 170px;
+}
+.pizza-1{
+    height: 170px;
+}
+.hr-line2{
+    width:0px ;
+}
+.our-menu{
+    font-size: 25px;
+}
+.pizza-2{
+    height: 170px;
+}
+.pizza-3{
+    height: 170px;
+}
+.home-button{
+    text-decoration: none;
+    color: rgb(6, 5, 5);
+}
+.home-button:hover{
+    color: rgb(63, 60, 60);
+    text-decoration: underline;
+}
+.menu-button{
+    text-decoration: none;
+    color: rgb(6, 5, 5);
+}
+.menu-button:hover{
+    color: rgb(63, 60, 60);
+    text-decoration: underline;
+}
+.about-button{
+    text-decoration: none;
+    color: rgb(6, 5, 5);
+}
+.about-button:hover{
+    color: rgb(63, 60, 60);
+    text-decoration: underline;
+}
+.contact{
+    text-decoration: none;
+    color: rgb(6, 5, 5);
+}
+.contact:hover{
+    color: rgb(63, 60, 60);
+    text-decoration: underline;
+}
+.timing{
+    text-decoration: none;
+    color: rgb(6, 5, 5);
+}
+.timing:hover{
+    color: rgb(63, 60, 60);
+    text-decoration: underline;
+}
+.table,th,td{
+    border: 1px black solid;
+} 
+.time-table-line{
+    margin-top: 2%;
+}
+.lets-see-our-menue{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    font-weight: 600;
+    width: fit-content;
+    
+   
+}
+.lets-see-our-menue:hover{
+color: gray;
+}
+.buttons{
+    width: 50%;
+    display: flex;
+    justify-content: space-between;
+}
+.input-box{
+    width: 30%;
+    height: 100px;
+}
