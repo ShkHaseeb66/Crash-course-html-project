@@ -93,7 +93,16 @@ color: gray;
     display: flex;
     justify-content: space-between;
 }
-.input-box{
-    width: 30%;
-    height: 100px;
+.send-message{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    font-weight: 600;
+    width: fit-content;
+}
+.send-message:hover{
+    color: gray;
+}
+.input-box::placeholder{
+    top: -38px;
+    position: relative;
 }
